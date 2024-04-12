@@ -30,6 +30,8 @@ pip install scikit-learn
 
 5. Evaluating the Trained Model’s Accuracy:
    - Finally, the accuracy of the trained model is evaluated using Scikit-learn's accuracy_score function.
+### Conclusion
+With an accuracy score of approximately 94%, the Gaussian Naive Bayes classifier demonstrates promising results in classifying cancer cells based on the provided dataset. Further experimentation and tuning may improve the model's performance.
 
 ### Future Works
 - Further exploration of different machine learning algorithms for classification.
@@ -44,5 +46,10 @@ pip install scikit-learn
 2. Clone the repository.
 3. Execute the provided code snippets or integrate them into your own scripts.
 
-### Conclusion
-With an accuracy score of approximately 94%, the Gaussian Naive Bayes classifier demonstrates promising results in classifying cancer cells based on the provided dataset. Further experimentation and tuning may improve the model's performance.
+### Contributing
+Contributions are welcome! Please feel free to submit issues and pull requests.
+
+### License
+This project is licensed under the MIT License.
+
+
